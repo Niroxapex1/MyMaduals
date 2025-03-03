@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+BestMaduals.egg-info/PKG-INFO
+BestMaduals.egg-info/SOURCES.txt
+BestMaduals.egg-info/dependency_links.txt
+BestMaduals.egg-info/requires.txt
+BestMaduals.egg-info/top_level.txt
